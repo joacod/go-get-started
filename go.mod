@@ -1,3 +1,3 @@
-module pepe
+module playground
 
 go 1.14
