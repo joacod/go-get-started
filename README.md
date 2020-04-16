@@ -1,5 +1,5 @@
 # go-get-started
-Go playground project
+Go playground project, created to play a little bit with this awesome language and learn in the process.
 
 ## Prerequisites
 - [Install Go](https://golang.org/)
@@ -10,7 +10,7 @@ From the terminal:
 - go run playground
 
 Once it's running, go to a browser:
-- Hit following url (Port 3000 is harcoded) http://localhost:3000/users
+- Hit the following url (Port 3000 is harcoded) http://localhost:3000/users
 
 ## What you will find so far
 - Console print of message "Hello Go!"
