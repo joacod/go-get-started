@@ -20,6 +20,6 @@ From the terminal: `go build playground`
 Once it's finished, you will find an executable (specific to your OS) in the root folder.
 
 ## What you will find so far
-- Console print of message "Hello Go!"
-- Console print of a struct
-- Run a basic WebServer
+- [x] Console print of message "Hello Go!"
+- [x] Console print of a struct
+- [x] Run a basic WebServer
