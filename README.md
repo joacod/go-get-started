@@ -6,15 +6,13 @@ Go playground project, created to play a little bit with this awesome language a
 - [VS Code Extension for Go](https://github.com/microsoft/vscode-go)
 
 ## How to run it
-From the terminal:
-- go run playground
+From the terminal: `go run playground`
 
 Once it's running, go to a browser:
 - Hit the following url (Port 3000 is harcoded) http://localhost:3000/users
 
 ## How to build it
-From the terminal:
-- go build playground
+From the terminal: `go build playground`
 
 Once it's finished, you will find an executable (specific to your OS) in the root folder.
 
