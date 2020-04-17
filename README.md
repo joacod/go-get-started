@@ -12,6 +12,12 @@ From the terminal:
 Once it's running, go to a browser:
 - Hit the following url (Port 3000 is harcoded) http://localhost:3000/users
 
+## How to build it
+From the terminal:
+- go build playground
+
+Once it's finished, you will find an executable (specific to your OS) in the root folder.
+
 ## What you will find so far
 - Console print of message "Hello Go!"
 - Console print of a struct
