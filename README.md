@@ -1,4 +1,7 @@
 # go-get-started
+<p align="center">
+  <img height="200" src="https://pilsniak.com/wp-content/uploads/2017/04/golang.jpg">
+</p>
 Go playground project, created to play a little bit with this awesome language and learn in the process.
 
 ## Prerequisites
