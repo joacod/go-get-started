@@ -21,7 +21,7 @@ func helloGo() {
 
 func printUser() {
 	user := models.User{
-		ID:        2,
+		ID:        1,
 		FirstName: "Mr",
 		LastName:  "Spock",
 	}
