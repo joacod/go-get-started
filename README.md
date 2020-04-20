@@ -19,7 +19,7 @@ From the terminal: `go run playground --artist Beatles --song Blackbird`
 Once it's running, go to a browser:
 - Hit the following url (Port 3000 is harcoded) http://localhost:3000/users
 
-### How to build it
+### Build it
 From the terminal: `go build playground`
 
 Once it's finished, you will find an executable (specific to your OS) in the root folder.
