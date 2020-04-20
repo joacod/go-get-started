@@ -14,7 +14,7 @@ Go playground project, created to play a little bit with this awesome language a
 From the terminal: `go run playground --help`
 
 ### Run it
-From the terminal: `go run playground --artist Beatles --song Blackbird`
+From the terminal: `go run playground --artist Beatles --song "Come Together"`
 
 ### Build it
 From the terminal: `go build playground`
