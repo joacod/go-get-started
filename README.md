@@ -22,4 +22,8 @@ Once it's finished, you will find an executable (specific to your OS) in the roo
 ## What you will find so far :heavy_check_mark:
 - [x] Console print of message "Hello Go!"
 - [x] Console print of a struct
-- [x] Run a basic WebServer
+- [x] Run a basic and simplified WebServer (only supporting GET)
+- [x] Run a console application to get song lyrics, example: `go run playground --artist Beatles --song Blackbird`
+
+## Notes
+Behind the scenes the program is using the following public api https://lyricsovh.docs.apiary.io/#
